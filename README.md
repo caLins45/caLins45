@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil !
 
-<!--
-**caLins45/caLins45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Catarina Lins 
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo na linguagem JavaScripth
+- Utilizo esse espaço para me organizar e compartilhar projetos desenvolvidos
+- Estou estudando pelo Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Você pode entrar em contato comigo
+
+  00001133151978SP@educacao.sp.gov.br
+
+
+
+
+
