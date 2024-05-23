@@ -6,7 +6,7 @@ Meu nome é Catarina Lins
 - Utilizo esse espaço para me organizar e compartilhar projetos desenvolvidos
 - Estou estudando pelo Alura
 
-- Você pode entrar em contato comigo
+-** Você pode entrar em contato comigo**
 
   00001133151978SP@educacao.sp.gov.br
 
