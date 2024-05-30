@@ -8,6 +8,9 @@ Meu nome é Catarina Lins
 
 -** Você pode entrar em contato comigo**
 
+Pode ver meu projeto aqui se não der certo pelo link
+![](https://editor.p5js.org/Tatuverde/sketches/kvwXbS6nA)
+
   00001133151978SP@educacao.sp.gov.br
 
 ![](https://media1.tenor.com/m/HqBpuMi8NxwAAAAC/batendo-palma-ursos-sem-curso.gif)
